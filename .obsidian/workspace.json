@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "5adc9249e7df13d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f6236d9f8cc9255",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c110ebcd94742bb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Labs_reales/Elastic_SIEM/2026-04-23_Tool_Transfer_C2_Elastic_SIEM.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-23_Tool_Transfer_C2_Elastic_SIEM.md"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce347fd961eed040",
+    "type": "split",
+    "children": [
+      {
+        "id": "092d3df352b0802f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df24d5203cf2cda9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "9abbcf9652ebb068",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0ada871178a53c4a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 429.5
+  },
+  "right": {
+    "id": "ac12fcbc3228f8d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2e496bb31e89d04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "140e0512129d9d2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "6e9fc53efa13ed33",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "2ba31f98af24671c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d1f54d46ee4d341e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "32535afe4d35aec5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "c110ebcd94742bb9",
+  "lastOpenFiles": [
+    "03_Labs_reales/Elastic_SIEM/2026-04-23_Tool_Transfer_C2_Elastic_SIEM.md.md",
+    "03_Labs_reales/Elastic_SIEM/2026-03-16_Sudo_Abuse_And_Privilege_Escalation_Elastic.md.md",
+    "03_Labs_reales/Elastic_SIEM/2026-04-23_Nmap_Scan_Detection_Discovery_Elastic_SIEM.md.md",
+    "03_Labs_reales/Elastic_SIEM/2026-03-12_System_Information_Discovery_detected_Elastic_SIEM.md.md",
+    "03_Labs_reales/Elastic_SIEM/2026-03-12_Event_Triggered_Execution_Elastic_SIEM.MD.md",
+    "03_Labs_reales/Elastic_SIEM/2026-03-05_SSH_Brute_Force_Detenction_Elastic_SIEM_UPDATE.MD.md",
+    "Index.base",
+    "03_Labs_reales/Elastic_SIEM/2026-03-05_Malicious_Cron_Task_Detection_Elastic_SIEM.md.md",
+    "Untitled.canvas",
+    "03_Labs_reales/Elastic_SIEM/2026-03-05_SSH_Brute_Force_Detection_Elastic.md.md",
+    "04-Templates/alerta_template.md.md",
+    "04-Templates/alerta_LetsDefend.md.md",
+    "02_Incidentes_Completos/Malware/2026-02-24_Malware_Word_Macro_C2.md.md",
+    "03_Labs_reales/Elastic_SIEM/Sin nombre",
+    "03_Labs_reales/Elastic_SIEM",
+    "01-ALERTAS/Post_Login/2026-02-05_2026-02-05_Post_Login_Suspicious_Activity.md.md",
+    "02_Incidentes_Completos/Account_Compromise/2026-02-14_Account_Compromise_OAuth_Persistence_C2.md.md",
+    "02_Incidentes_Completos/Account_Compromise/2026-02-07_Suspicious_Authentication_Data_Access.md.md",
+    "02_Incidentes_Completos/Malware",
+    "01-ALERTAS/Post_Login/2026-02-02_Lateral_Movement.md.md",
+    "Index.md.md",
+    "04-Templates/template_Incidentes_Completos.md.md",
+    "01-ALERTAS/Authentication/Credential_Stuffing/2026-02-02_Credential_Stuffing_Externo.md.md",
+    "02_Incidentes_Completos/Data_Exfiltration",
+    "02_Incidentes_Completos/Cloud_Compromise",
+    "02_Incidentes_Completos/Untitled.md",
+    "03_Labs_reales",
+    "02_Incidentes_Completos",
+    "01-ALERTAS/Authentication/Password_Spray",
+    "01-ALERTAS/Authentication/Brute_Force",
+    "2026-02-05_Post_Login_Suspicious_Activity.md",
+    "2026-02-07_Suspicious_Authentication_Data_Access.md",
+    "01-ALERTAS/Account_Compromise/2026-02-07_Suspicious_Authentication_Data_Access.md",
+    "01-ALERTAS/Phishing/2026-02-02_OAuth_Phishing.md.md",
+    "01-ALERTAS/Phishing/2026-02-02_Phishing_Email.md.md",
+    "00-Bienvenida-README.md.md"
+  ]
+}
